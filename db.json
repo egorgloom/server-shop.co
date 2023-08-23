@@ -1,40 +1,10 @@
 {
-  "woman": [
-    {
-      "Одежда": {
-        "id": 1,
-        "name": "Джинсы"
-      },
-      "Обувь": {
-      "id":2,
-      "name": "Кроссовки"
-      },
-      "Акссесуары": {
-      "id":3,
-      "name": "Акссесуары"
-      }
-    }
-  ],
-  "man": [
-    {
-      "Одежда": {
-        "id": 1,
-        "name": "Куртка"
-      },
-      "Обувь": {
-      "id":2,
-      "name": "Штаны"
-      },
-      "Акссесуары": {
-      "id":3,
-      "name": "Майки"
-      }
-    }
+  "woman": [ "туфли", "майки", "джинсы"
   ],
   "product": [
     {
       "id":1,
-    "title":"xnnn",
+    "title":"майка",
     "price":109.95,
     "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
     "category":"men's clothing",
