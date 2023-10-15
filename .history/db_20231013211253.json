@@ -32,104 +32,71 @@
       "id" : 1,
       "firstName": "Alina",
       "lastName" : "Sooela",
-      "date": "2023-09-07",
+      "dayWeek": "Wednesday",
+      "month": "September",
+      "day" : "27",
+      "year": "2023",
       "time" : "1:05 PM",
       "description": "Sent: Meal Bills",
       "sum" : "275",
-      "currency" : "USD"
-
+      "currency" : "USD",
+      "createdAt" : "2023-02-07T12:02:59.376Z"
     },
     {
       "id" : 2,
       "firstName": "Justin",
       "lastName" : "Bieber",
-      "date": "2023-09-15",
+      "dayWeek": "Tuesday",
+      "month": "September",
+      "day" : "26",
+      "year": "2023",
       "time" : "9:00 AM",
       "description": "Received your birthday gifts",
       "sum" : "1500",
-      "currency" : "USD"
+      "currency" : "USD",
+      "createdAt" : "2023-03-15T17:27:36.787Z"
     },
     {
       "id" : 3,
       "firstName": "Lea",
       "lastName" : "Tan",
-      "date": "2023-10-07",
+      "dayWeek": "Monday",
+      "month": "September",
+      "day" : "25",
+      "year": "2023",
       "time" : "3:15 PM",
       "description": "Fixing the car",
       "sum" : "900",
-      "currency" : "USD"
+      "currency" : "USD",
+      "createdAt" : "2023-09-02T05:55:16.047Z"
     },
     {
       "id" : 4,
       "firstName": "Edward",
       "lastName" : "Cole",
-      "date": "2023-09-27",
+      "dayWeek": "Saturday",
+      "month": "September",
+      "day" : "29",
+      "year": "2023",
       "time" : "9:25 PM",
       "description": "Payment for delivery of goods",
       "sum" : "39.99",
-      "currency" : "USD"
-
+      "currency" : "USD",
+      "createdAt" : "2022-12-28T18:05:42.358Z"
     },
     {
       "id" : 5,
       "firstName": "Joe",
       "lastName" : "Der",
-      "date": "2023-10-01",
+      "dayWeek": "Friday",
+      "month": "September",
+      "day" : "15",
+      "year": "2023",
       "time" : "7:45 PM",
       "description": "Buying a computer",
       "sum" : "2700",
-      "currency" : "USD"
-
-    },
-    {
-      "id" : 6,
-      "firstName": "Ashley",
-      "lastName" : "Anderson",
-      "date": "2023-08-21",
-      "time" : "8:15 PM",
-      "description": "Buying clothes",
-      "sum" : "1700",
-      "currency" : "USD"
-    },
-    {
-      "id" : 7,
-      "firstName": "Jason",
-      "lastName" : "Bourne",
-      "date": "2023-09-21",
-      "time" : "10:45 AM",
-      "description": "Buying information",
-      "sum" : "4000",
-      "currency" : "USD"
-    },
-    {
-      "id" : 8,
-      "firstName": "Ben",
-      "lastName" : "Affleck",
-      "date": "2023-09-28",
-      "time" : "5:45 PM",
-      "description": "Rent a car",
-      "sum" : "300",
-      "currency" : "USD"
-    },
-    {
-      "id" : 9,
-      "firstName": "Alexandra",
-      "lastName" : "Daddario",
-      "date": "2023-10-02",
-      "time" : "10:45 PM",
-      "description": "Buying a chainsaw",
-      "sum" : "200",
-      "currency" : "USD"
-    },
-    {
-      "id" : 10,
-      "firstName": "Ryan",
-      "lastName" : "Reynolds",
-      "date": "2023-10-05",
-      "time" : "4:25 AM",
-      "description": "Buying two swords",
-      "sum" : "1000",
-      "currency" : "USD"
+      "currency" : "USD",
+      "createdAt" : "2022-12-24T18:18:09.029Z"
     }
 
   ]
