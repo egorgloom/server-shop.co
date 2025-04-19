@@ -181,7 +181,7 @@
   "metrics" : [
     {
       "id": "1",
-      "server": "WEB",
+      "server": "web",
       "responseTime": "135",
       "rps" : "926",
       "errors": "4xx",
@@ -260,7 +260,7 @@
     },
     {
       "id": "3",
-      "server": "CACHE",
+      "server": "cache",
       "responseTime": "453",
       "rps" : "974",
       "errors": "5xx",
@@ -299,7 +299,7 @@
     },
     {
       "id": "4",
-      "server": "WEB",
+      "server": "wev",
       "responseTime": "114",
       "rps" : "733",
       "errors": "4xx",
@@ -340,7 +340,7 @@
     },
     {
       "id": "5",
-      "server": "DB",
+      "server": "db",
       "responseTime": "424",
       "rps" : "555",
       "errors": "5xx",
